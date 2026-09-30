@@ -1,4 +1,4 @@
-# 🌱 Smart Plant Care
+# 🌱 Cloud-Connected-Smart-Plant-Care-Watering-System
 
 Smart Plant Care is a full-stack web application designed to monitor plant health, automate watering, and alert users when conditions become unsafe for the plant. The project simulates an Internet of Things (IoT) plant monitoring system using live sensor data, historical tracking, and a browser-based dashboard.
 
